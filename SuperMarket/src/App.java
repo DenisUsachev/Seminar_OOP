@@ -1,6 +1,5 @@
 import Classes.Market;
 import Classes.OrdinaryClient;
-import Classes.PromotionalClient;
 import Classes.SpecialClient;
 import Classes.TaxService;
 import Interfaces.iActorBehaviour;
