@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package Solid.SingleResponsibilityPrinciple;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package Solid.SingleResponsibilityPrinciple;
 
 // Класс в котором будёт расчитываться зарплата работника 
 public class AccountingService {
